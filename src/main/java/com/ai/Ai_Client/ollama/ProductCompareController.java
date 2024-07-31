@@ -1,4 +1,4 @@
-package com.ai.Ai_Client.chatgpt;
+package com.ai.Ai_Client.ollama;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.web.bind.annotation.GetMapping;
